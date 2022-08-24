@@ -2,6 +2,8 @@
 
 # Non-Invasive Electrical Brain Stimulation - Transcranial direct current stimulation (tDCS)
 
+> The full research report can be read [here.](files/tDCS-Research-Report.pdf)
+
 ### Table of Contents
 
 - [Research](#Research)
@@ -18,8 +20,6 @@ As time progressed, tDCS devices have become a more reliable form of treatment t
 correct sections of the brain are being stimulated, it is advised that the user receives an initial magnetic resonance imaging (MRI) scan to identify the location that needs stimulation and where the electrode should be placed [15].
 
 </p>
-
-> The full research report can be read [here.](files/tDCS-Research-Report.pdf)
 
 [Back To The Top](#project)
 
@@ -39,9 +39,9 @@ correct sections of the brain are being stimulated, it is advised that the user 
 
 <h4> Arsalan Barolia</h4>
 
-- LinkedIn - [https://www.linkedin.com/in/arsalanbarolia/](https://www.linkedin.com/in/arsalanbarolia/)
-- GitHub - [https://github.com/arsalanbarolia](https://github.com/arsalanbarolia)
-- Website - [Enter domain here](enter domain here)
+- LinkedIn - [linkedin.com/in/arsalanbarolia](https://www.linkedin.com/in/arsalanbarolia)
+- GitHub - [github.com/arsalanbarolia](https://github.com/arsalanbarolia)
+- Website - [arsalanbarolia.com](https://arsalanbarolia.com)
 
 <p></p>
 
